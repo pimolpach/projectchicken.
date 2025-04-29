@@ -1,5 +1,4 @@
 โปรเจคนี้คือ ระบบร้านขายไก่เป็นเว็บสำหรับสั่งอาหารไปรับหรือเดลิเวอรี่ได้ 
 มีระบบสมัครสมาชิกพอสมัครแล้วจะเด้งขึ้นหลังบ้าน 
 และมีเมนูเกี่ยวกับไก่ให้เลือกอีกมากมาย
-![Screenshot_2025-04-30_010618](https://github.com/user-attachments/assets/8ed7d82a-11a1-470c-923a-4a167cc294fb)
-
+https://github.com/pimolpach/projectchickenn/blob/main/Screenshot_2025-04-30_010618.png
