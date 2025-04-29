@@ -17,3 +17,8 @@ vs code
 
 canva
 https://www.canva.com/design/DAGmBxlGKMA/GSkgXW31SMskUQX0yDM5vg/edit?utm_content=DAGmBxlGKMA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+นายเอกณัฏฐ์ วานิชกมลนันท์ 67132303
+นางสาวพิมลพัชร บุญวาส 67136156
+นางสาวธัญวรรณ ศรีอนงค์ 67149028
